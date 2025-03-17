@@ -10,7 +10,7 @@ namespace HelloWorld_ASP_Razor.Pages
         public int Age { get; set; }
         public string Result { get; set; }
 
-
+        //some change
         public void OnGet()
         {
 
